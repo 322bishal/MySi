@@ -17,8 +17,9 @@ public class AdditionActivity extends AppCompatActivity  implements View.OnClick
     @Override
     public void onClick(View v) {
 
+        int a;
         if(v.getId()== R.id.btnsum){
-            Intent intent = new Intent()
+//            Intent intent = new Intent()
 
 
         }
